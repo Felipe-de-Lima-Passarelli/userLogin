@@ -69,23 +69,6 @@ http://localhost:3000
 
 ---
 
-## 🔹 Próximas Melhorias
-
-- Implementar **hash de senha** para segurança.
-- Adicionar **validação de formulário mais avançada**.
-- Substituir `localStorage` por **API real / banco de dados**.
-- Melhorar o design e responsividade do painel do usuário.
-
----
-
-## 🔹 Screenshots
-
-![Login](./screenshots/login.png)  
-![Register](./screenshots/register.png)  
-![Logged](./screenshots/logged.png)
-
----
-
 ## 🔹 Autor
 
 **Felipe de Lima Passarelli**  
